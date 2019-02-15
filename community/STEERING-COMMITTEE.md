@@ -56,7 +56,7 @@ periodically reviewed to ensure proper recognition.
 | <img width="30px" src="https://github.com/dewitt.png">   | DeWitt Clinton | Google  | [@dewitt](https://github.com/dewitt)     |
 | <img width="30px" src="https://github.com/mchmarny.png"> | Mark Chmarny   | Google  | [@mchmarny](https://github.com/mchmarny) |
 | <img width="30px" src="https://github.com/isdal.png">    | Tomas Isdal    | Google  | [@isdal](https://github.com/isdal)       |
-
+| <img width="30px" src="https://github.com/dprotaso.png"> | Dave Protasowski   | Pivotal  | [@dprotaso](https://github.com/dprotaso) |
 ---
 
 Except as otherwise noted, the content of this page is licensed under the
